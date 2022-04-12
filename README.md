@@ -11,3 +11,5 @@
 <http://www.kiu.ac.kr>
 
 [경일대학교](http://www.kiu.ac.kr)
+
+![아이유](./images/1.jpg)
